@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File2RtPlus", "File2RtPlus\File2RtPlus.csproj", "{522C9993-A847-4A79-A9AD-40E4FB17376C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522C9993-A847-4A79-A9AD-40E4FB17376C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522C9993-A847-4A79-A9AD-40E4FB17376C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522C9993-A847-4A79-A9AD-40E4FB17376C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522C9993-A847-4A79-A9AD-40E4FB17376C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A4FEB6-FEE3-4764-9F31-470F25A76490}
+	EndGlobalSection
+EndGlobal
